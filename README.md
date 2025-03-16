@@ -2,7 +2,7 @@
 
 ## [Click Here to PLAY](https://v0-three-in-a-row-six.vercel.app/) ##
 
-A futuristic implementation of the classic tic-tac-toe game, built with Next.js, TS and React. This project features a sleek cyberpunk aesthetic with animated components, intelligent AI, and responsive design.
+A futuristic implementation of the classic tic-tac-toe game, built with Next.js, TS and React.
 
 ## 📚 Tech Stack
 
@@ -128,9 +128,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Srikar045 - [GitHub Profile](https://github.com/Arknight007)
-`© 2025 Arknight007. All rights reserved.`
+Srikar045 - [GitHub Profile](https://github.com/Arknight007),</br>
+Built with TS and Next.JS
 
 ---
+`© 2025 Arknight007. All rights reserved.`
 
-<p align="center">Built with TS and Next.js</p>
