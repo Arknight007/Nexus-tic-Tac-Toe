@@ -10,7 +10,6 @@ A futuristic implementation of the classic tic-tac-toe game, built with Next.js,
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Font**: [Geist Mono](https://vercel.com/font)
-- **Animations**: Custom CSS transitions
 
 ## 🌟 Features
 
